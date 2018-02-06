@@ -77,3 +77,5 @@ Built-in cocoapod
 5. If you want to use `Firebase Push Notification` please see the application configuration here, I have configured the client side, you just configure your firebase side only. [https://firebase.google.com/docs/cloud-messaging/ios/client](https://firebase.google.com/docs/cloud-messaging/ios/client)
 
 6. If you want to use `Fabric crash analytics`, please change `APIKey` at `(Build Phases/ Run Script)`
+
+## Hire me at loc.plsoft@gmail.com
